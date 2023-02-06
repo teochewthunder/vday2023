@@ -1,4 +1,4 @@
-# Valentine's Day 2023
+# Valentine's Day SVG Heart Animation
 
 This is a simple animated SVG using path, ellipse, circle and text tags.
 
